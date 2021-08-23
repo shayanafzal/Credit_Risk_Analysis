@@ -33,76 +33,9 @@ After this the two machine learning models, â€˜BalacedRandomForecastClassifierâ€
 ![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 ## Summary
-### Results Summary
+### Results Summary & Analysis
 
-
-
-
-Oversampling 
-1.	Naive Random Oversampling
-*   Accuracy Score: 66.69%
-*   Precision
-    * High Risk: 0.01
-    * Low Risk: 1.00
-*   Recall
-    *	High Risk: 0.67
-    *	Low Risk: 0.6
-
-
-
-2.	SMOTE Oversampling
-*  Accuracy Score: 62.69%
-*  Precision
-*     High Risk: 0.01
-*     Low Risk: 1.00
-*     Recall
-    *	 High Risk: 0.57
-    *	 Low Risk: 0.68
-
-3. Cluster Centroids
-*	Accuracy Score: 62.69%
-*	Precision
-   *	High Risk: 0.01
-   *	Low Risk: 1.00
-*	Recall
-   *	High Risk: 0.57
-   *	Low Risk: 0.68
-
-4. Combination of Over and Under Sampling
-*	Accuracy Score: 65.02%
-*	Precision
-   *	High Risk: 0.01
-   *	Low Risk: 1.00
-*	Recall
-   *	High Risk: 0.72
-   *	Low Risk: 0.58
-
-5. Balanced Random Forest Classifier
-*	Accuracy Score: 79.58%
-*	Precision
-   *	High Risk: 0.03
-   *	Low Risk: 1.00
-*	Recall
-   *	High Risk: 0.71
-   *	Low Risk: 0.88
-
-6. Easy Ensemble AdaBoost Classifier
-*	Accuracy Score: 92.64%
-*	Precision
-   *	High Risk: 0.08
-   *	Low Risk: 1.00
-*	Recall
-   *	High Risk: 0.91
-   *	Low Risk: 0.94
-
-
-
-
-
-
-As summary of the results in presented in the table below
-
-As demonstrated in the analysis above the balanced accuracy score ranges between 60-90%. The first four models have an accuracy score in the 60s. For the last two models the score is relatively higher. The balanced accuracy sore in not a good indictor when dealing with imbalanced classes, such as is the case here. The models using yield a low precision score. This indicates that the financial institutions have a high percentage of false positives when it comes to high risk scores. 
+A qualitative summary of the results obtained for the six methods has been presented above. As demonstrated in the analysis above the balanced accuracy score ranges between 60-90%. The first four models have an accuracy score in the 60s. For the last two models the score is relatively higher. The balanced accuracy sore in not a good indictor when dealing with imbalanced classes, such as is the case here. The models using yield a low precision score. This indicates that the financial institutions have a high percentage of false positives when it comes to high risk scores. 
 
 All six methods used in this analysis have a precision score of 1. This indicates that all four models return a significant number of false postivies. Looking at the recal sensitivy score for the model used in this analysis, once can see that they are all over 50%. Futhermore, the recal sensitivyt score for the ensemble models is higher than the other methord. This indicates that the ensemble models are more reliable in inidcating low or high risk loans. Lasty looking at the F1 scores one can conclude that there is a high number of false positives and negatives when it comes to high risk loans.  
 
