@@ -39,11 +39,8 @@ A qualitative summary of the results obtained for the six methods has been prese
 
 All six methods used in this analysis have a precision score of 1. This indicates that all four models return a significant number of false postivies. Looking at the recal sensitivy score for the model used in this analysis, once can see that they are all over 50%. Futhermore, the recal sensitivyt score for the ensemble models is higher than the other methord. This indicates that the ensemble models are more reliable in inidcating low or high risk loans. Lasty looking at the F1 scores one can conclude that there is a high number of false positives and negatives when it comes to high risk loans.  
 
-
-  
-
-
 ### Recommendation
 
+Based on the analysis of the six models, it is eveident that the Ensemble Classifier models yield the most accurate results. 
 
 
