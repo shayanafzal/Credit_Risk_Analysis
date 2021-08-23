@@ -15,13 +15,22 @@ After this the two machine learning models, ‘BalacedRandomForecastClassifier�
 
 ### Oversampling 
 #### Naive Random Oversampling
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Naive%20Random%20Oversampling.png)
 #### SMOTE Oversampling
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/SMOTE%20Oversampling.png)
 
 ### Undersampling
 #### Cluster Centroids
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Undersampling%20ClusterCentroids.png)
 
 ### Combination (Over and Under) Sampling
 #### SMOTEENN
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Combination%20Smoteenn.png)
+
+### Balanced Random Forest Classifier
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Balanced%20Random%20Forest%20Classifier.png)
+### Easy Ensemble AdaBoost Classifier
+![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
  
@@ -35,6 +44,7 @@ The models using yield a low precision score. This indicates that the financial 
 
 
 ### Recommendation
+### Easy Ensemble AdaBoost Classifier
 
 
 
