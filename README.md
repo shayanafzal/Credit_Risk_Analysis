@@ -104,7 +104,7 @@ As summary of the results in presented in the table below
 
 As demonstrated in the analysis above the balanced accuracy score ranges between 60-90%. The first four models have an accuracy score in the 60s. For the last two models the score is relatively higher. The balanced accuracy sore in not a good indictor when dealing with imbalanced classes, such as is the case here. The models using yield a low precision score. This indicates that the financial institutions have a high percentage of false positives when it comes to high risk scores. 
 
-All six methods used in this analysis have a precision score of 1. This indicates that all four models return a significant number of false postivies. Looking at the recal scores for the model used in this analysis, once can see that they are all over 50%
+All six methods used in this analysis have a precision score of 1. This indicates that all four models return a significant number of false postivies. Looking at the recal sensitivy score for the model used in this analysis, once can see that they are all over 50%. Futhermore, the recal sensitivyt score for the ensemble models is higher than the other methord. This indicates that the ensemble models are more reliable in inidcating low or high risk loans. Lasty looking at the F1 scores one can conclude that there is a high number of false positives and negatives when it comes to high risk loans.  
 
 
   
