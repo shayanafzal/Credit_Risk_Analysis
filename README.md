@@ -32,8 +32,6 @@ After this the two machine learning models, ‘BalacedRandomForecastClassifier�
 ### Easy Ensemble AdaBoost Classifier
 ![GitHub Logo](https://github.com/shayanafzal/Credit_Risk_Analysis/blob/6c3a8edc51765ccc3237991d1767dd922d2d62ce/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
-
- 
 ## Summary
 ### Results Summary
 As summary of the results in presented in the table below
