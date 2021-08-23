@@ -48,51 +48,50 @@ Oversampling
     *	High Risk: 0.67
     *	Low Risk: 0.6
 
-
 2.	SMOTE Oversampling
-•	Accuracy Score: 62.69%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.57
-o	Low Risk: 0.68
-Undersampling: 
-Cluster Centroids
-•	Accuracy Score: 62.69%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.57
-o	Low Risk: 0.68
-Combination of Over and Under Sampling
-•	Accuracy Score: 65.02%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.72
-o	Low Risk: 0.58
+*	Accuracy Score: 62.69%
+*	Precision
+   *	High Risk: 0.01
+   *	Low Risk: 1.00
+*	Recall
+   *	High Risk: 0.57
+   *	Low Risk: 0.68
 
- 
-Ensemble Learners
-Balanced Random Forest Classifier
-•	Accuracy Score: 79.58%
-•	Precision
-o	High Risk: 0.03
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.71
-o	Low Risk: 0.88
-Easy Ensemble AdaBoost Classifier
-•	Accuracy Score: 92.64%
-•	Precision
-o	High Risk: 0.08
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.91
-o	Low Risk: 0.94
+3. Cluster Centroids
+*	Accuracy Score: 62.69%
+*	Precision
+   *	High Risk: 0.01
+   *	Low Risk: 1.00
+*	Recall
+   *	High Risk: 0.57
+   *	Low Risk: 0.68
+
+4. Combination of Over and Under Sampling
+*	Accuracy Score: 65.02%
+*	Precision
+   *	High Risk: 0.01
+   *	Low Risk: 1.00
+*	Recall
+   *	High Risk: 0.72
+   *	Low Risk: 0.58
+
+5. Balanced Random Forest Classifier
+*	Accuracy Score: 79.58%
+*	Precision
+   *	High Risk: 0.03
+   *	Low Risk: 1.00
+*	Recall
+   *	High Risk: 0.71
+   *	Low Risk: 0.88
+
+6. Easy Ensemble AdaBoost Classifier
+*	Accuracy Score: 92.64%
+*	Precision
+   *	High Risk: 0.08
+   *	Low Risk: 1.00
+*	Recall
+   *	High Risk: 0.91
+   *	Low Risk: 0.94
 
 
 
