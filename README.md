@@ -13,66 +13,15 @@ After this the two machine learning models, ‘BalacedRandomForecastClassifier�
 ## Results
 
 
+### Oversampling 
+#### Naive Random Oversampling
+#### SMOTE Oversampling
 
+### Undersampling
+#### Cluster Centroids
 
-1.	Naive Random Oversampling
-•	Accuracy Score: 66.69%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.67
-o	Low Risk: 0.67
-2.	SMOTE Oversampling
-•	Accuracy Score: 62.69%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.57
-o	Low Risk: 0.68
-Undersampling: 
-Cluster Centroids
-•	Accuracy Score: 62.69%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.57
-o	Low Risk: 0.68
-Combination of Over and Under Sampling
-•	Accuracy Score: 65.02%
-•	Precision
-o	High Risk: 0.01
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.72
-o	Low Risk: 0.58
-
- 
-Ensemble Learners
-Balanced Random Forest Classifier
-•	Accuracy Score: 79.58%
-•	Precision
-o	High Risk: 0.03
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.71
-o	Low Risk: 0.88
-Easy Ensemble AdaBoost Classifier
-•	Accuracy Score: 92.64%
-•	Precision
-o	High Risk: 0.08
-o	Low Risk: 1.00
-•	Recall
-o	High Risk: 0.91
-o	Low Risk: 0.94
-
-
-
-
-
-
+### Combination (Over and Under) Sampling
+#### SMOTEENN
 
 
  
