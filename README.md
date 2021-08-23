@@ -14,10 +14,7 @@ After this the two machine learning models, ‘BalacedRandomForecastClassifier�
 
 
 
-Balanced Accuracy Score
-Precision and Recall Scores
- 
-Oversampling 
+
 1.	Naive Random Oversampling
 •	Accuracy Score: 66.69%
 •	Precision
