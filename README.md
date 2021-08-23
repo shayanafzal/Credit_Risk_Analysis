@@ -42,7 +42,6 @@ The models using yield a low precision score. This indicates that the financial 
 
 
 ### Recommendation
-### Easy Ensemble AdaBoost Classifier
 
 
 
