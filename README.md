@@ -41,6 +41,6 @@ All six methods used in this analysis have a precision score of 1. This indicate
 
 ### Recommendation
 
-Based on the analysis of the six models, it is eveident that the Ensemble AdaBoost Classifier model yield the most accurate results. Based on the limited data we have, Ensemble AdaBoost Classifier would be the recommended model to use.
+Based on the analysis of the six models, it is eveident that the Easy Ensemble AdaBoost Classifier model yield the most accurate results. Based on the limited data we have, Easy Ensemble AdaBoost Classifier would be the recommended model to use.
 
 
