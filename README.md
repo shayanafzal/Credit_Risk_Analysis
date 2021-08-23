@@ -43,8 +43,8 @@ Oversampling
 *   Accuracy Score: 66.69%
 *   Precision
     * High Risk: 0.01
-	  * Low Risk: 1.00
-*	  Recall
+    * Low Risk: 1.00
+*   Recall
     *	High Risk: 0.67
     *	Low Risk: 0.6
 
