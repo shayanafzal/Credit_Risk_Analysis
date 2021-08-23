@@ -34,6 +34,71 @@ After this the two machine learning models, ‘BalacedRandomForecastClassifier�
 
 ## Summary
 ### Results Summary
+
+
+
+
+Oversampling 
+1.	Naive Random Oversampling
+*   Accuracy Score: 66.69%
+*   Precision
+    * High Risk: 0.01
+	  * Low Risk: 1.00
+*	  Recall
+    *	High Risk: 0.67
+    *	Low Risk: 0.6
+
+
+2.	SMOTE Oversampling
+•	Accuracy Score: 62.69%
+•	Precision
+o	High Risk: 0.01
+o	Low Risk: 1.00
+•	Recall
+o	High Risk: 0.57
+o	Low Risk: 0.68
+Undersampling: 
+Cluster Centroids
+•	Accuracy Score: 62.69%
+•	Precision
+o	High Risk: 0.01
+o	Low Risk: 1.00
+•	Recall
+o	High Risk: 0.57
+o	Low Risk: 0.68
+Combination of Over and Under Sampling
+•	Accuracy Score: 65.02%
+•	Precision
+o	High Risk: 0.01
+o	Low Risk: 1.00
+•	Recall
+o	High Risk: 0.72
+o	Low Risk: 0.58
+
+ 
+Ensemble Learners
+Balanced Random Forest Classifier
+•	Accuracy Score: 79.58%
+•	Precision
+o	High Risk: 0.03
+o	Low Risk: 1.00
+•	Recall
+o	High Risk: 0.71
+o	Low Risk: 0.88
+Easy Ensemble AdaBoost Classifier
+•	Accuracy Score: 92.64%
+•	Precision
+o	High Risk: 0.08
+o	Low Risk: 1.00
+•	Recall
+o	High Risk: 0.91
+o	Low Risk: 0.94
+
+
+
+
+
+
 As summary of the results in presented in the table below
 
 As demonstrated in the analysis above the balanced accuracy score ranges between 60-90%. The first four models have an accuracy score in the 60s. For the last two models the score is relatively higher. The balanced accuracy sore in not a good indictor when dealing with imbalanced classes, such as is the case here.
