@@ -49,11 +49,11 @@ Oversampling
     *	Low Risk: 0.6
 
 2.	SMOTE Oversampling
-*	 Accuracy Score: 62.69%
-*	 Precision
-    *	 High Risk: 0.01
-    *	 Low Risk: 1.00
-*	 Recall
+*  Accuracy Score: 62.69%
+*  Precision
+*     High Risk: 0.01
+*     Low Risk: 1.00
+*     Recall
     *	 High Risk: 0.57
     *	 Low Risk: 0.68
 
